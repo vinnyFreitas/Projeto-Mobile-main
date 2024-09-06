@@ -6,7 +6,7 @@ export const environment = {
   production: true,
 
   firebase: {
-    apiKey: "AIzaSyD2WS9irVVtZ6t-aOtSAutqOplxq0uwFdo",
+    
     authDomain: "projeto-mobile-main.firebaseapp.com",
     projectId: "projeto-mobile-main",
     storageBucket: "projeto-mobile-main.appspot.com",
